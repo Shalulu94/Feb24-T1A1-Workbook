@@ -4,7 +4,7 @@ This document includes my answers to the workbook assignement for Term 1 - Coder
 
 All questions and answers will be included in this markdown document
 
-### Q1: **Identify** and **explain** common and important components and concepts of web development markup languages:
+## Q1: **Identify** and **explain** common and important components and concepts of web development markup languages:
 
 A Markup language is text-encoding system which defines how the layout and presentation of text and images should appear in a digital document (Samy Sadok, 2023). It gives us the ability to structure and format content as well as a standardized way to define elements which makes it easier for computers and software applications to interpret and display content (Lenovo). 
 
@@ -27,6 +27,16 @@ Markup languages focus on the presentation and structure of content on a webpage
 Another important concept of markup languages in web web development is related to responsiveness and accessibility. Responsiveness relates to how a webpage's structure will change depending on the device that a user has accessed the webpage on. It is important for the structure of a webpage to shift fluidly across different devices to ensure that all information is present and continues t be displayed in an accurate and cmoplete format. 
 
 Proper accessbility enables user with a disabilityto access and interact with a website. Markup languages can be interpreted by screen readers and other assistive technologies allowing websites to reach all users. Semantic elements already assist with this as the already add meaning to the content structure of your website via their specific tags (Samy Sadko, 2023)
+
+## Q2: Define the features of the following technologies that are essential in terms of the development of the internet. Explain how each technology has contributed to the development of the internet:
+ - **Packets** - 
+ - **IP addresses (IPv4 and IPv6)**
+ - **routers and routing**
+ - **domains and DNS**
+
+
+
+
 
 
 
