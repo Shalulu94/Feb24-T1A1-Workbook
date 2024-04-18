@@ -30,9 +30,16 @@ Proper accessbility enables user with a disabilityto access and interact with a 
 
 ## Q2: Define the features of the following technologies that are essential in terms of the development of the internet. Explain how each technology has contributed to the development of the internet:
  - **Packets** - When data is transmitted over a network it is broken down into smaller parts known as "packets". The purpose of this is to ensure that network paths do not get congested with large files and allows for efficient transmission. A packet typically consists of a header and a payload. The header includes information about the source and destination addresses, sequencing information on how to reproduce the original file once all packets have been received and routing information. The payload includes the actual data that is being transmitted
- - **IP addresses (IPv4 and IPv6)** - An IP Address is short for Internet Protocol Address and is a unique identifier for a device or network that connects to the internet. It allows for computers within a network to identify, communicate and transfer data between each other. Two versions of commonly used IP Addreses are IPv4 and IP v6.IPv4 addresses utilize a 32-bit numerical format, accommodating around 4.3 billion devices. Recognizing the impending depletion of available IPv4 addresses, IPv6 was introduced by the Internet Engineering Task Force in 1998. Employing a 128-bit scheme, IPv6 vastly expands the address pool to accommodate up to 340 trillion trillion trillion unique addresses, effectively resolving the address exhaustion concern and fostering the internet's continued growth. Moreover, IPv6 offers additional advantages over IPv4, including built-in Quality of Service (QoS), integrated network security via IPsec, support for multicasting, and larger packet headers.
- - **routers and routing**
+ - **IP addresses (IPv4 and IPv6)** - An IP Address is short for Internet Protocol Address and is a unique identifier for a device or network that connects to the internet. It allows for computers within a network to identify, communicate and transfer data between each other. Two versions of commonly used IP Addreses are IPv4 and IP v6.IPv4 addresses utilize a 32-bit numerical format, accommodating around 4.3 billion devices. With the rapid expansion of users on the internet, these IP addresses were being consumed and would eventually become exhausted. In 1998, IPv6 was introduced which was a new protocol using a 128 
+ Recognizing the impending depletion of available IPv4 addresses, IPv6 was introduced by the Internet Engineering Task Force in 1998. Employing a 128-bit scheme, IPv6 vastly expands the address pool to accommodate up to 340 trillion trillion trillion unique addresses, effectively resolving the address exhaustion concern and fostering the internet's continued growth. Moreover, IPv6 offers additional advantages over IPv4, including built-in Quality of Service (QoS), integrated network security via IPsec, support for multicasting, and larger packet headers.
+ - **routers and routing** - 
  - **domains and DNS**
+
+ ## Q6: A hypothetical client has sent you an email (shown in the Q6 Email section), asking for you to build them a website. Write an appropriate, professional email response that shows your understanding of the client’s needs for the website, as well as an understanding of appropriate technologies or tools needed to build the website yourself.
+
+ Hi Alex,
+
+ Thank you for your email and providing detail regarding your website requirements and objectives.
 
 
 
@@ -57,5 +64,5 @@ Proper accessbility enables user with a disabilityto access and interact with a 
 - https://whatismyipaddress.com/ip-basics
 - https://www.techtarget.com/whatis/definition/IP-address-Internet-Protocol-Address
 - https://www.cloudflare.com/en-au/learning/network-layer/what-is-a-router/
-
+- https://aws.amazon.com/compare/the-difference-between-ipv4-and-ipv6/
 
