@@ -39,7 +39,32 @@ Proper accessbility enables user with a disabilityto access and interact with a 
 
  Hi Alex,
 
- Thank you for your email and providing detail regarding your website requirements and objectives.
+ Thank you for your email and providing detail regarding your website requirements and objectives. The good news is that based on your requirements, we can definitely design and develop a website suitable to your needs and hopefully help attract more visitors to your museum. 
+
+ In order to address your requirements, the website will require some key features such as:
+
+ - **Multi-page website**: This essentially means that your website will have multiple different pages that users can navigate between using a navigation bar that will be present and static across all pages. By having multiple pages on a website, you will be able to separate different topics you want to display to your customers onto their own specific pages. This will also help users to navigate to the a specific page quickly if they wanted to quickly find the answer to something. For example, if a customer wanted to quickly find out your contact details to phone/email, they could navigate directly to the 'Contact Us' page. Some page titles you will need based on your requirements would be:
+    - About us - Brief description about the museum, it's purpose and history
+    - Exhibits - Outline what exhibits are on showcase in the museum
+    - Gallery - Display page to showcase your artifacts. Can include pictures and descriptions
+    - Contact Us - Contact details and potentially even a contact form they can fill out
+    - Getting here - Direction details
+
+- **Semantic HTML**: HTML will be the markup language used to input all of the text, visuals and elements that you want to include in your website. In order to make your website as accessible as possible, we will ensure to use semantic HTML tags where possible as this allows better access for users with impairments. It will also allow search engines to better read your website and return your website to users searching for it. 
+
+- **CSS Styling**: After all the elements have been included, we will use CSS to style your website to make it look appealing to the user and include features that alow it to be more interactive and responsive. As we don't know whether your users will be accessing your website on their computer, tablet or mobile we need to ensure that the website is responsive and can adjust itself depending on the users device. This ensures that no matter how or when the users acces your website, it will always be presented in a format that is clear, appealing and easy to use. We can also add transitions and animation effects to different elements to help interactivity as users scroll through your website. All of these functions can be built according to your requests. 
+
+- **Domain**: You will also want this website to have a domain name similar to your Super Awesome Museum name so that it is relevant and easier for users to find. We can ensure that a domain name is reserved for you and once we deploy the website online, people will be able to access it using something relevant such as www.Superawesomemuseum.com. 
+
+We hope that this gives you a bit of an idea of what we can do when building your website. We want to ensure that your website delivers all the necessary information to your users in an interactive, responsive and meaningful manner. 
+
+Hope to hear from you soon and assist in building this website. 
+
+Thank you,
+
+Shahrul
+
+
 
 
 
