@@ -35,6 +35,18 @@ Proper accessbility enables user with a disabilityto access and interact with a 
  - **routers and routing** - 
  - **domains and DNS**
 
+## Q5: Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.
+
+- **Python**: Python is a simple and versatile programming language and is known to be extremely beginner friendly. Python is 'open source' which means it can be used by everyone and there are a lot of libraries and frameworks which can be imported into python to assist with data visualisation, data science, machine learning and data science.
+
+Some drawbacks of python include the fact that it has high memory usage compared to some other programming languages and thus may not be the most efficient option for programs with an emphasis on performance. It is also a constantly updated programming language and thus some libraries and frameworks can only be used in certain versions of python which limits its capabilities for future proofing solutions. 
+
+- **Javascript**: Javascript is another very beginner friendly programming language and is used to build dynamic and interactive web applications. Javascipt has high speed and efficiency due to it's ability to execute on the clients side which minimises reliance on server resources (Vaishnavi, 2004, Ellow.io). Javascript can also develop both front-end and back-end within a single language which reduces complexity and makes it easier to code and maintain websites. 
+
+Most of Javascript's drawbacks come from security reasons. Given that code is visible to everyone on a webpage, this make it easier for unauthorised access and data breaches to occur and requires additional security measures to protect sensitive data. Also since Javascript runs within the users browser, if a user was ever to disable Javascript on a website due to security concerns, then this could cause significant loss in functionality on the website. Each browser also has slightly different implementation methods and capabilities and so there could be some inconsistencies between different browsers that must be considered if using javascript. 
+
+
+
  ## Q6: A hypothetical client has sent you an email (shown in the Q6 Email section), asking for you to build them a website. Write an appropriate, professional email response that shows your understanding of the client’s needs for the website, as well as an understanding of appropriate technologies or tools needed to build the website yourself.
 
  Hi Alex,
@@ -71,6 +83,14 @@ Our most recent project was the website portfolio assignment where we had to des
 Based on this, one of the greatest difficulties was in the design stage with the wireframing and sitemaps. I chose to do a simple website design simply because I was unaware of how much complexity and flexibility CSS provided. If i had to redo this task, I would firstly conduct more research into the capabilities of the languages that I was planning on using. Visit more websites, each with diverse target audiences and backgrounds and inspect the code used to develop all of the different elements. This would have exposed me to more design opportunities when first planning the layout of my own website and is something I would do differently. 
 
 Secondly, the coding aspect of my website required multiple redo attempts to clean up and optimise my code. Not having a clear understanding of the coding and design functions resulted in a lot of errors and readjustments. I feel that if I had taken a bit more time to structure my plan and code certain elements in a planned sequence, then I could have created classes better, optimised semantic HTML and kept my code as clean as possible. 
+
+## Q8: Create an action plan that identifies several relevant networking opportunities for you to participate in or attend, and add some information about what you expect to gain or grow through each item in the action plan.
+
+Within software development, networking is key to success within the industry and this has been re-iterated to us repeatedly. To ensure my success in this new role, I aim to leverage my existing contacts and network to create opportunities to penetrate into the industry and secure a role as a software developer. Currently I am already working together with internal teams at my current employer Vocus (Which is a telecommunications company) to better understand how we utilise technology within our own backend systems. I currently work as a Pricing manager and have senior contacts within the Data & BI, IT/Tech support and product management teams all of which utilise their own software and systems to develop programs to improve efficiency within the business. I am already working on data projects with the Data & BI team to create dashboards and tools to help improve internal processes and manipulate source data into a format that is informative, readable and modifiable by the end user. My plan is to continue to work closely with this team on projects and aim for a secondment to get first hand experience working within a team, utilise agile work methods and develop solutions to solve internal problems and inefficiencies. Some of the programming languages I have already been exposed to include SQL and Python. 
+
+I will also keep a close eye out on any networking opportunities that come up within the Coder Academy ecosystem and attend these events whenever and wherever possible. This will help me to gain further exposure to industry professionals and build relationships to help kickstart my career. 
+
+I do believe however that utilising my existing network and connections to work on projects now and gain first hand exposure will be the best sort of experience to complement my completion of this course and secure my first tech developer role. 
 
 ## Q9: Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.
 
@@ -148,4 +168,5 @@ There are a number of different job roles and positions that could be found in a
 - https://hallandwilcox.com.au/thinking/legal-and-ethical-issues-with-the-use-of-ai-including-chatgpt-in-healthcare/
 - https://resources.workable.com/hr-terms/what-are-soft-skills#:~:text=Soft%20skills%20are%20general%20traits,re%20essential%20for%20professional%20success.
 - https://www.intelivita.com/blog/roles-in-a-software-development-team/
+- https://www.open.edu.au/advice/insights/what-are-the-most-popular-programming-languages
 
