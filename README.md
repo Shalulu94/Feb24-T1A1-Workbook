@@ -4,6 +4,8 @@ This document includes my answers to the workbook assignement for Term 1 - Coder
 
 All questions and answers will be included in this markdown document
 
+Please see link to Github repository for the readme file. https://github.com/Shalulu94/Feb24-T1A1-Workbook
+
 ## Q1: **Identify** and **explain** common and important components and concepts of web development markup languages:
 
 A Markup language is text-encoding system which defines how the layout and presentation of text and images should appear in a digital document (Samy Sadok, 2023). It gives us the ability to structure and format content as well as a standardized way to define elements which makes it easier for computers and software applications to interpret and display content (Lenovo). 
