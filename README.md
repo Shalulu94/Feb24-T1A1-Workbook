@@ -47,6 +47,10 @@ HTTPS is an extension of HTTP but adds an element of security by working in para
 - **Web browsers**: A web browser allows users to navigate the internet and retrieve information from other connected servers and display this on your device. A web browser uses HTTP to transmit data across the internet and then uses a rendering engine to transform the data into text and images as directed by the HTML included in the code. As all browsers are different, there could be some inconsistencies between how data is represented between browsers. 
 Web browsers are the medium used to present data to end users and software developments must ensure that what they are building is presented in the way they expect on their desired platform. 
 
+## Q4:	Describe the features of interpreters and compilers and how they are different.
+
+Interpreters and compilers both transform high-level programming code into executable programs. Interpreters read and action source code lines immediately within the programming language environment which allows for easier error-detection and debugging as issues are detected immediately and with human readability. This does however result in higher memory usage and slower execution as they are translating code during the execution. On the other hand, compilers translate programming code written by humans into binary machine code. It essentially analyses code written within a specific programming language, checks to ensure that the code is valid and adheres to all rules and then converts it into machine code which offers efficiency benefits when executing software programs. By doing so, it becomes more optimised when executing and can also be executed without sharing the source code of the program. However, it becomes more difficult to debug due to the absence of human-readable code and also whenever changes are to be implemented, the code will need to be recompiled each time. 
+
 ## Q5: Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.
 
 - **Python**: Python is a simple and versatile programming language and is known to be extremely beginner friendly. Python is 'open source' which means it can be used by everyone and there are a lot of libraries and frameworks which can be imported into python to assist with data visualisation, data science, machine learning and data science.
@@ -184,4 +188,5 @@ There are a number of different job roles and positions that could be found in a
 - https://www.fortinet.com/resources/cyberglossary/tcp-ip
 - https://www.cloudflare.com/en-au/learning/dns/what-is-dns/
 - https://www.fortinet.com/resources/cyberglossary/tcp-ip
+- https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/
 
